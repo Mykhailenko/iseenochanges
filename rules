@@ -1,0 +1,1 @@
+{"com.epam.cactus.services.impl", ["com.epam.cactus.web", "com.epam.cactus.persistense"]}
